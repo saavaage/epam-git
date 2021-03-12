@@ -29,3 +29,5 @@ And it's been the ruin of many a poor boy
 And God, I know I'm one
 
 Add content for commit 1 (feature)
+
+Add once more content for commit 2 (feature)
